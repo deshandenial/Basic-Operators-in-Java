@@ -1,6 +1,6 @@
 package miscellaneous_operators;
 
-public class Conditional_Operator_class 
+public class Conditional_Operator_ OR_Ternary_class 
 {
 	public static void main(String[] args) {
 		
